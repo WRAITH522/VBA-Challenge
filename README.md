@@ -24,3 +24,5 @@ Make the appropriate adjustments to your VBA script to enable it to run on every
 
 NOTE
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+
+'Reference:https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Challenge_DS.vbs
